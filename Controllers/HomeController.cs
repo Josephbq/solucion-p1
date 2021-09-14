@@ -15,14 +15,14 @@ namespace solucion_p1.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Joseph Barral";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Bqj2020793@est.univalle.edu";
 
             return View();
         }
